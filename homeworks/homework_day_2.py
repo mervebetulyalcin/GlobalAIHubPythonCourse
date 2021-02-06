@@ -14,5 +14,5 @@ then, print out of all of the even numbers from 0 to n (including n)
 """
 n = int(input("Please enter a number :"))
 for i in range(n):
-    if i%2 ==1:
+    if i%2 ==0:
      print(i)
