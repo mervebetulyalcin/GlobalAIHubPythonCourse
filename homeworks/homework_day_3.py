@@ -10,7 +10,7 @@ else:
     print("Please check your name and password")
 """
 
-info_dictionary = {'merve': '12345'}
+info_dictionary = {'merve': '12345', 'erdem':'56789'}
 
 username = input("Please enter your username :")
 password = input("Please enter your password :")
